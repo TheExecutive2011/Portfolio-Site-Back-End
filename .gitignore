@@ -12,5 +12,4 @@
 *.vsix
 
 .env
-node_modules/
 
